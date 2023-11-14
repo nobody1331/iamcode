@@ -1,11 +1,3 @@
-/*
- * Theme Name: Pixel Perfect Portfolio
- * Author: Pixel Perfect
- * Author URI/Mail: pixelperfectmk@gmail.com
- * Version: 1.0
- */
-
-
 /* CUSTOM RESETS
 ================================================== */
 a, button {
@@ -426,7 +418,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero {
-  background: url(https://raw.githubusercontent.com/nobody1331/iamcode/main/shadow.gif) center no-repeat;
+  background: url(https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/7/75/Shadow_vs_Elisabeth_-_Fencing_Gif.gif) center no-repeat;
   height: 100%;
   width: 100%;
   display: table;
