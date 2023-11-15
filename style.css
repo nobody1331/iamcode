@@ -1,3 +1,11 @@
+/*
+ * Theme Name: Pixel Perfect Portfolio
+ * Author: Pixel Perfect
+ * Author URI/Mail: pixelperfectmk@gmail.com
+ * Version: 1.0
+ */
+
+
 /* CUSTOM RESETS
 ================================================== */
 a, button {
@@ -30,7 +38,6 @@ html, body {
 .blue-bg {
   background-color: #196fc2;
 }
-
 
 /* 
  * Button
